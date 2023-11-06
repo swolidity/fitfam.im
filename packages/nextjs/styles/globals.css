@@ -25,6 +25,7 @@ p {
 
 .btn {
   @apply shadow-md;
+  text-transform: none;
 }
 
 .btn.btn-ghost {
